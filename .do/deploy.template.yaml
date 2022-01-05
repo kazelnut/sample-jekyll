@@ -5,5 +5,5 @@ spec:
     environment_slug: jekyll
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-jekyll.git
+      repo_clone_url: https://github.com/kazelnut/sample-jekyll.git
     name: sample-jekyll
